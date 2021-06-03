@@ -24,3 +24,5 @@ Process:
 6. Created a Flask application (app.py)
 7. Dependencies: flask, werkzeug.utils, tensorflow, keras, cv2, numpy
 8. Takes a character image to upload and uses our model to make a prediction on that character.
+
+You can access the predictor app here: https://final-project-handwriting-ml.herokuapp.com/upload
